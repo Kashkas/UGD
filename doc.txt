@@ -1,0 +1,5 @@
+install web.py
+install pymongo
+install mongo
+create db posicionRecargaBipMetro
+install tomcat 8.5
