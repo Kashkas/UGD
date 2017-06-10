@@ -8,6 +8,6 @@
 <!DOCTYPE html>
 <html>
     <script>
-        document.location.href = "cargador";
+        document.location.href = "mapaPuntosCarga";
     </script>
 </html>
