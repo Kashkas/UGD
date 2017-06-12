@@ -33,6 +33,7 @@ $ python Coordenadas.py
 
 #### Java Web App
 En la carpeta Java/MapaBip/dist se encuentra el archivo MapaBip.war listo para ser desplegado en un servidor con Java 8.
+Se debe editar el archivo server.properties para ingresar la dirección del servicio de busqueda.
 
 ## Uso
 #### Aplicación Web
